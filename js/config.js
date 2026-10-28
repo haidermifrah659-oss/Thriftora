@@ -6,7 +6,7 @@ window.THRIFTORA_CONFIG = {
   deliveryCharge: 250,
   freeDeliveryThreshold: 5000,
   socials: {
-    instagram: 'https://www.instagram.com/',
+    instagram: 'https://www.instagram.com/thriftora38/',
     tiktok: 'https://www.tiktok.com/',
     facebook: 'https://www.facebook.com/'
   }
